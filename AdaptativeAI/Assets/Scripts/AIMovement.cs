@@ -1,4 +1,4 @@
-﻿//Copyright (c) 2019, Alejandro Silva and Diego Montoya in Collaboration with VFS
+﻿//Copyright (c) 2019, Alejandro Silva
 
 using UnityEngine;
 using UnityEngine.AI;

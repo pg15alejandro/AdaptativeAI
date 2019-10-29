@@ -1,4 +1,4 @@
-﻿//Copyright (c) 2019, Alejandro Silva and Diego Montoya in Collaboration with VFS
+﻿//Copyright (c) 2019, Alejandro Silva
 
 using UnityEngine;
 
@@ -12,7 +12,7 @@ public class AIAttackManager : MonoBehaviour
     [Header("DEBUG")]
     [SerializeField] private float _TimeBetweenChange;
 
-    
+
     private Animator _EnemyAnimator;
     private int _EnemyIndex = -1;
 

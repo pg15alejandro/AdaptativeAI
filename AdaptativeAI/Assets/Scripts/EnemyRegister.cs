@@ -1,4 +1,4 @@
-﻿//Copyright (c) 2019, Alejandro Silva and Diego Montoya in Collaboration with VFS
+﻿//Copyright (c) 2019, Alejandro Silva
 
 using System.Collections;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ public class EnemyRegister : MonoBehaviour
 {
     public List<GameObject> EnemiesOutside = new List<GameObject>();
     public List<GameObject> EnemiesInside = new List<GameObject>();
-    
+
     [Header("MAXIUM AMMOUNTS")]
     public int MaxiumEnemiesInside;
     [Header("ANGLES")]
